@@ -1,0 +1,13 @@
+.faceBody-container{
+    display: flex;
+}
+.person-container{
+    width: 70%;
+    margin-left: 40px;
+    margin-top: 5px;
+    margin-right: 5px;
+    border-right: 1px solid gray;  
+}
+body{
+    background-color: #A1F9FF;
+}
